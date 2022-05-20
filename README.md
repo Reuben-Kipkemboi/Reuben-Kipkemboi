@@ -49,7 +49,16 @@
 <div>
  <img title="Figma" alt="Figma" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">  <img  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" **alt="Heroku" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40">
   </div>
- 
+  
+  <hr>
+  
+  ### :fire: **My stats:**
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reuben-Kipkemboi&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false" alt="My github stats" /> 
+  
+  #### **Languages**
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reuben-Kipkemboi&layout=compact&theme=tokyonight&hide_border=false" />
  
  
  
