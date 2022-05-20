@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/reuben-kipkemboi-1416a5236/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/_RotichReuben">
+  <a href="https://mail.google.com/mail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://twitter.com/_RotichReuben">
@@ -24,7 +24,7 @@
 
 ### :man_technologist: **Me, myself and I :**
 
-- 🔭 Currently working as a software Engineer contributing to borh front end and backend applications but majoring on frontend development of web applications
+- 🔭 Currently working as a software Engineer contributing to both front end and backend applications, majorly on frontend development of web applications
 - 🌱 I’m currently learning Django framework and passionate to learn Ruby
 - 👯 I’m looking to collaborate on open source projects and exploring much on new technologies
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rotichkipkemboireuben@gmail.com)
@@ -47,10 +47,7 @@
   <img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img title="Django" alt="Django" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img title="mysql" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
 </div>
-
 
 ### **Tools**
 
@@ -76,4 +73,12 @@
   - [News Api](https://github.com/Reuben-Kipkemboi/News-API)
   - [Pitches App](https://github.com/Reuben-Kipkemboi/Pitches-App)
   - [Movie Watchlist](https://github.com/Reuben-Kipkemboi/Movie-Watchlist)
+
+  <li>Angular</li>
+
+  - [Git search](https://github.com/Reuben-Kipkemboi/Github-Search)
+  - [Giphy Replica](https://github.com/Reuben-Kipkemboi/Giphy-Replica)
+  - [Goals App](https://github.com/Reuben-Kipkemboi/Angular-GoalApp)
+  - [Quotes Application](https://github.com/Reuben-Kipkemboi/Quotes)
   </ol>
+
