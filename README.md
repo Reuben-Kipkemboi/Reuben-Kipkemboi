@@ -29,23 +29,24 @@
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rotichkipkemboireuben@gmail.com)
 
 ### :hammer_and_wrench: **Programming Languages and Tools :**
-#### **Programming Languages**
+### **Programming Languages**
 <div>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="100" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="100" height="40"/>&nbsp;
- </div>
+  <img align="center" alt="Javascript" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <img align="center" alt="Typescript" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">    
+     <img align="center" alt="Python" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
  
-#### Frameworks and Libraries
+### Frameworks and Libraries
+<div>
+<img title="Bootstrap" alt="Spark"  width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png"> 
+  <img title="Jquery" alt="Jquery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">  
+  <img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">  
+  <img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">  
+  <img title="Django" alt="Django" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" style="margin-right: 2%;>
+                                                                                                                                                    
+### Databases
 
-<img title="Bootstrap" alt="Spark" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">  <img title="Jquery" alt="Jquery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">  <img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">  <img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">  <img title="Django" alt="Django" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
-
-#### **Databases**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-#### **Tools**
+### **Tools**
 <div>
  <img title="Figma" alt="Figma" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">  <img  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" **alt="Heroku" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40">
   </div>
@@ -56,7 +57,7 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reuben-Kipkemboi&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false" alt="My github stats" /> 
   
-  #### **Languages**
+  ### **Languages**
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reuben-Kipkemboi&layout=compact&theme=tokyonight&hide_border=false" />
   
