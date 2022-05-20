@@ -35,22 +35,21 @@
 
 <div>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <img align="center" alt="Typescript" height="30" width="40" style="margin-right: 10%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">    
-     <img align="center" alt="Python" height="30" width="40" style="margin-right: 10%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
+     <img align="center" alt="Python" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
  
 ### Frameworks ,Libraries and Databases
 <div>
-<img title="Bootstrap" alt="Spark"  width="40px" style="margin-right: 10%;" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png"> 
-  <img title="Jquery" alt="Jquery" width="40px" style="margin-right: 10%;" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">  
-  <img title="Angular" alt="Angular" width="40px" style="margin-right: 10%;" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">  
-  <img title="Flask" alt="Flask" width="40px" style="margin-right: 10%;" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png"> 
+<img title="Bootstrap" alt="Spark"  width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img title="Jquery" alt="Jquery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+  <img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img title="Django" alt="Django" width="40px" style="margin-right: 10%;" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
+  <img title="Django" alt="Django" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img title="mysql" alt="MySQL" height="30" width="40" style="margin-right: 10%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+<img title="mysql" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-- <img title="MySQL" alt="MySQL" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">&nbsp; -->
 
 </div>
 
@@ -58,7 +57,7 @@
 ### **Tools**
 
 <div>
- <img title="Figma" alt="Figma" width="40px" style="margin-right: 10%;" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">  <img style="margin-right: 10%;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"> <img style="margin-right: 10%;" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" **alt="Heroku" width="40" height="40"> <img style="margin-right: 10%;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40">
+ <img title="Figma" alt="Figma" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" **alt="Heroku" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40">
   </div>
   
   <hr>
