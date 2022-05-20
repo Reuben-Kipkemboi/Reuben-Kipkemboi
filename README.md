@@ -59,6 +59,18 @@
   #### **Languages**
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reuben-Kipkemboi&layout=compact&theme=tokyonight&hide_border=false" />
+  
+  ### **Sample Projects I would like yo to see:**
+  <ol>
+  <li>Python
+    <li>[Personal Blog](https://github.com/Reuben-Kipkemboi/personal-blog)</li>
+    <li>[News Api](https://github.com/Reuben-Kipkemboi/News-API)</li>
+    <li>[Pitches App](https://github.com/Reuben-Kipkemboi/Pitches-App)</li>
+    <li>[Movie Watchlist](https://github.com/Reuben-Kipkemboi/Movie-Watchlist)</li>
+  </li>
+  
+  
+  </ol>
  
  
  
@@ -73,8 +85,7 @@
 
 
 
-<!--
-**Reuben-Kipkemboi/Reuben-Kipkemboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
