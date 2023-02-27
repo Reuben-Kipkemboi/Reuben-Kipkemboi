@@ -24,8 +24,7 @@
 
 ### :man_technologist: **Me, myself and I :**
 
-- 🔭 Currently a software Engineering student contributing to both front end and backend applications, but majorly on frontend development of web applications
-- 🌱 I’m currently learning Django framework and passionate to learn Ruby
+- 🔭 Currently a software Engineering Intern contributing to both front end and backend applications, but majorly on frontend development of web applications
 - 👯 I’m looking to collaborate on open source projects and exploring much on new technologies
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rotichkipkemboireuben@gmail.com)
 
