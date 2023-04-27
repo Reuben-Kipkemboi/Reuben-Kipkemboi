@@ -64,7 +64,7 @@
 
   ### **WakaTime statistics**
 
-  <a href="https://wakatime.com"><img width="40" height="40" src="https://wakatime.com/share/@8d970003-19be-4a57-8f0b-c04c2a3e5b08/4fe48a58-861c-4acd-a3c4-491d4cf646c2.png" /></a>
+  <a href="https://wakatime.com"><img align="center" width="400"  height="300" src="https://wakatime.com/share/@8d970003-19be-4a57-8f0b-c04c2a3e5b08/4fe48a58-861c-4acd-a3c4-491d4cf646c2.png" /></a>
   
   ### **Languages**
   
