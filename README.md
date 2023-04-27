@@ -60,6 +60,11 @@
   ### :fire: **My stats:**
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reuben-Kipkemboi&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false" alt="My github stats" /> 
+
+
+  ### WakaTime statistics
+
+  <figure><embed src="https://wakatime.com/share/@8d970003-19be-4a57-8f0b-c04c2a3e5b08/65695962-68cf-439d-be3f-4b21b84001b4.svg"></embed></figure>
   
   ### **Languages**
   
