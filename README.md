@@ -48,6 +48,7 @@
   <img title="Django" alt="Django" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img title="mysql" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img title="postgres" alt="Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 </div>
 
 ### **Tools**
@@ -55,17 +56,7 @@
 <div>
  <img title="Figma" alt="Figma" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" **alt="Heroku" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40">
 
- | Tool                                              | 
-|---------------------------------------------------| 
-| ![Figma](https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg) | 
-| ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) | 
-| ![Heroku](https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg) | 
-| ![Github](https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg) |
-
   </div>
-
-  
-  
   <hr>
   
   ### :fire: **My stats:**
