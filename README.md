@@ -24,7 +24,8 @@
 
 ### :man_technologist: **Me, myself and I :**
 
-- 🔭 Currently a software Engineering Intern contributing to both front end and backend applications, but majorly on frontend development of web applications
+- 🔭 Currently a Systems Developer contributing to both front end and backend applications, but majorly on frontend development of web applications.
+- Currently Learning Dart.
 - 👯 I’m looking to collaborate on open source projects and exploring much on new technologies
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rotichkipkemboireuben@gmail.com)
 
@@ -53,7 +54,17 @@
 
 <div>
  <img title="Figma" alt="Figma" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" **alt="Heroku" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40">
+
+ | Tool                                              | 
+|---------------------------------------------------| 
+| ![Figma](https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg) | 
+| ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) | 
+| ![Heroku](https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg) | 
+| ![Github](https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg) |
+
   </div>
+
+  
   
   <hr>
   
