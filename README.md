@@ -27,9 +27,9 @@
 <a href="https://time.is/Nairobi">
   <img src="https://img.shields.io/badge/Nairobi%20Time-UTC%2B3-00ff41?style=for-the-badge&labelColor=0d0d0d&logo=clockify&logoColor=00ff41" alt="Nairobi Time UTC+3"/>
 </a>
-<!-- <br/>
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Reuben-Kipkemboi&color=7c3aed&style=flat-square&label=Profile+Views) -->
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Reuben-Kipkemboi&color=7c3aed&style=flat-square&label=Profile+Views) --> 
 
 </div>
 
