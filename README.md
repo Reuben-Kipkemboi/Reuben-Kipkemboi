@@ -41,7 +41,7 @@
 ```typescript
 const reuben: Developer = {
   role: "Systems Developer",
-  location: "Nairobi, Kenya :kenya:",
+  location: "Nairobi, Kenya 🇰🇪 ",
   focus: ["Frontend Development", "Backend Systems", "Web Applications"],
   learning: ["Dart", "Flutter"],
   openTo: ["Open Source Collaboration", "Emerging Technologies"],
