@@ -24,8 +24,11 @@
 <br/><br/>
 
 <!-- Real-time clock powered by worldtimeapi -->
-<a href="https://time.is/Nairobi">
+<!-- <a href="https://time.is/Nairobi">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAfrica%2FNairobi&query=%24.datetime&label=%F0%9F%95%90%20Nairobi%20Time&color=00ff41&style=for-the-badge&labelColor=0d0d0d&logo=clockify&logoColor=00ff41" alt="Nairobi Time"/>
+</a> -->
+<a href="https://time.is/Nairobi">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAfrica%2FNairobi&query=%24.utc_offset&label=%F0%9F%95%90%20Nairobi%20Time&color=00ff41&style=for-the-badge&labelColor=0d0d0d" alt="Nairobi Time"/>
 </a>
 
 <!-- <br/>
