@@ -139,9 +139,7 @@ const reuben: Developer = {
 
 <div align="center">
 
-```
-:round_pushpin: Nairobi, Kenya   |   :clock1: EAT (UTC+3)   |   :briefcase: Open to collaboration
-```
+📍 Nairobi, Kenya   |   🕐 EAT (UTC+3)   |   💼 Open to collaboration
 
 I'm always open to interesting conversations, collaboration, and new opportunities.
 
