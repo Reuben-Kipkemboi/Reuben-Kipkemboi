@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:112240,50:302b63,100:24243e&height=200&section=header&text=Reuben%20Kipkemboi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Systems%20Developer%20%7C%20FrontEnd%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0a1930,50:112240,100:0a1930&height=200&section=header&text=Reuben%20Kipkemboi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Systems%20Developer%20%7C%20FrontEnd%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+systems+%F0%9F%9A%80;Frontend+%2B+Backend+Developer;Angular+%7C+Yii+%7C+Django+%7C+Flask;Always+learning+something+new+%F0%9F%8C%B1" alt="Typing SVG" />
@@ -21,12 +21,6 @@
 
 ![Location](<https://img.shields.io/badge/📍_Nairobi,_Kenya-EAT_(UTC+3)-7c3aed?style=for-the-badge&labelColor=1a1a2e>)
 
-<br/><br/>
-
-<!-- Real-time clock powered by worldtimeapi -->
-<a href="https://time.is/Nairobi">
-  <img src="https://img.shields.io/badge/Nairobi%20Time-UTC%2B3-00ff41?style=for-the-badge&labelColor=0d0d0d&logo=clockify&logoColor=00ff41" alt="Nairobi Time UTC+3"/>
-</a>
 <br/>
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Reuben-Kipkemboi&color=7c3aed&style=flat-square&label=Profile+Views) --> 
@@ -161,7 +155,7 @@ I'm always open to interesting conversations, collaboration, and new opportuniti
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1930,50:0d2444,100:0a1930&height=120&section=footer"/>
 
 `// "The best way to predict the future is to build it."`
 
